@@ -1,8 +1,10 @@
-# Migracao Default
- Migração entre banco de dados
+# Migração Default
+Migração entre banco de dados
 
 ## Migrar dados de um banco de dados para outro
 A ideia inicial é criar um componente para migrar dados entre banco de dados locais
+
+* **100%** - Open Source
 
 ### Componente de conexão
 
