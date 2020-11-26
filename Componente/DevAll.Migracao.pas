@@ -69,6 +69,13 @@ type
     property OnValidarRegistro: TValidarRegistroEvent read fsOnValidarRegistro write fsOnValidarRegistro;
   end;
 
+  TDevAllMigracao = class(TComponent)
+  private
+  protected
+  public
+  published
+  end;
+
 implementation
 
 uses
