@@ -143,15 +143,6 @@ object frmPrincipal: TfrmPrincipal
     TabOrder = 6
     OnClick = BitBtn3Click
   end
-  object Button1: TButton
-    Left = 520
-    Top = 8
-    Width = 75
-    Height = 25
-    Caption = 'Button1'
-    TabOrder = 7
-    OnClick = Button1Click
-  end
   object fdOrigem: TFDConnection
     Params.Strings = (
       'Database=C:\Transferencia\Dados\ORIGEM.FDB'
