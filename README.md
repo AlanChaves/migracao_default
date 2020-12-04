@@ -12,6 +12,11 @@ Componente criado com o objetivo de facilitar a cópia de registros de um banco 
 
 ![alt text](https://devalltech.com/img/componentes/propriedades.jpg)
 
+### Pré-Requisitos
+
+* É necessário informar qual será o driver de conexão, que fica na palheta **FireDAC Links**;
+* E o componente **TFDGUIxWaitCursor** que fica na palheta **FireDAC UI**
+
 ### Principais propriedades
 
 * **Origem** - Qual o banco de dados que será tirado as informações;
