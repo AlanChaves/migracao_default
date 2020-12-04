@@ -35,7 +35,6 @@ requires
   FireDACCommon;
 
 contains
-  rmMultiStrings in 'Source\rmMultiStrings.pas',
   DevAll.Migracao in 'Source\DevAll.Migracao.pas';
 
 end.

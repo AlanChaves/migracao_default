@@ -2,8 +2,7 @@ program MigracaoDefault;
 
 uses
   Vcl.Forms,
-  UfrmPrincipal in 'UfrmPrincipal.pas' {frmPrincipal},
-  DevAll.Migracao in '..\Componente\DevAll.Migracao.pas';
+  UfrmPrincipal in 'UfrmPrincipal.pas' {frmPrincipal};
 
 {$R *.res}
 
